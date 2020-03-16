@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Particles Crash</string>
+    <string name="app_id">746439350393</string>
+    <string name="leaderboard_id">CgkI-bCC2twVEAIQCA</string>
+    <string name="leaderboard_richer_id">CgkI-bCC2twVEAIQCQ</string>
+    <string name="achievement_1">CgkI-bCC2twVEAIQAQ</string>
+    <string name="achievement_2">CgkI-bCC2twVEAIQAg</string>
+    <string name="achievement_3">CgkI-bCC2twVEAIQAw</string>
+    <string name="achievement_4">CgkI-bCC2twVEAIQBA</string>
+    <string name="achievement_5">CgkI-bCC2twVEAIQBQ</string>
+    <string name="achievement_6">CgkI-bCC2twVEAIQEg</string>
+    <string name="achievement_7">CgkI-bCC2twVEAIQFA</string>
+    <string name="achievement_8">CgkI-bCC2twVEAIQDA</string>
+    <string name="achievement_9">CgkI-bCC2twVEAIQEw</string>
+    <string name="achievement_10">CgkI-bCC2twVEAIQDQ</string>
+    <string name="achievement_11">CgkI-bCC2twVEAIQDg</string>
+    <string name="achievement_12">CgkI-bCC2twVEAIQDw</string>
+    <string name="achievement_13">CgkI-bCC2twVEAIQEA</string>
+    <string name="achievement_14">CgkI-bCC2twVEAIQEQ</string>
+    <string name="achievement_15">CgkI-bCC2twVEAIQFQ</string>
+    <string name="achievement_16">CgkI-bCC2twVEAIQFg</string>
+    <string name="event_games_played">CgkI-bCC2twVEAIQBw</string>
+    <string name="event_money_obtained">CgkI-bCC2twVEAIQCg</string>
+    <string name="event_time_played">CgkI-bCC2twVEAIQCw</string>
+    <string name="intersticial_unit_id">ca-app-pub-9680896496732505/6363363274</string>
+    <string name="version">2.0.0</string>
+    <string name="version_code">27</string>
+    <string name="app_64id">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx3YSb7BpW/bHxOSE3G/JsnYZjVsCgs3UPnn8M0UUi6xk8L4Dp8shb8xnUU7H9eeWlj5/eFHIG9rM8Y1e/3uLxgX11R1eHHJkEnxjLECcWQdy88bW7eGppseXqxllm40u90/F32NZmUubGbfEa0xtyh3FgvaMwOU15Lp/JdM8rNaTOWtXpalDKg13+kZDYQBAaPdqhvlImKWGtMc7J9LwgVVAfCtoGgxQyB3K6aiirzKtKSiAMOHsnExm4MxKNaG6Ys5zwR+sVm0mE07nN4VCkpvJQpGUDUmJM8SNuTqNgCoyd8tkDr90CLHVp4w9afTAlrJoJRo01jJs6sow0sX2twIDAQAB</string>
+    <string name="banner_menu_unit_id">ca-app-pub-9680896496732505/1724433279</string>
+
+</resources>
+
+

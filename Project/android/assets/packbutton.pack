@@ -1,0 +1,338 @@
+
+packbutton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BarraPoder
+  rotate: false
+  xy: 1, 843
+  size: 648, 113
+  orig: 650, 117
+  offset: 2, 2
+  index: 1
+BarraPoder
+  rotate: false
+  xy: 1, 728
+  size: 648, 113
+  orig: 650, 117
+  offset: 2, 2
+  index: 2
+BarraPoder
+  rotate: false
+  xy: 1, 613
+  size: 648, 113
+  orig: 650, 117
+  offset: 2, 2
+  index: 3
+BarraPoder
+  rotate: false
+  xy: 1, 498
+  size: 648, 113
+  orig: 650, 117
+  offset: 2, 2
+  index: 4
+BarraPoder
+  rotate: false
+  xy: 1, 383
+  size: 648, 113
+  orig: 650, 117
+  offset: 2, 2
+  index: 5
+BarraPoder
+  rotate: false
+  xy: 1, 268
+  size: 648, 113
+  orig: 650, 117
+  offset: 2, 2
+  index: 6
+BarraPoder
+  rotate: false
+  xy: 1, 153
+  size: 648, 113
+  orig: 650, 117
+  offset: 2, 2
+  index: 7
+Layout
+  rotate: false
+  xy: 1, 1
+  size: 646, 150
+  orig: 650, 154
+  offset: 2, 2
+  index: -1
+
+packbutton2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CoinAddDown
+  rotate: false
+  xy: 1, 495
+  size: 544, 300
+  orig: 544, 300
+  offset: 0, 0
+  index: -1
+PlayDown
+  rotate: false
+  xy: 1, 248
+  size: 544, 245
+  orig: 546, 247
+  offset: 1, 1
+  index: -1
+PlayScoreDown
+  rotate: false
+  xy: 1, 1
+  size: 544, 245
+  orig: 546, 247
+  offset: 1, 1
+  index: -1
+
+packbutton3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayScoreUp
+  rotate: false
+  xy: 1, 549
+  size: 544, 245
+  orig: 546, 247
+  offset: 1, 1
+  index: -1
+PlayUp
+  rotate: false
+  xy: 1, 302
+  size: 544, 245
+  orig: 546, 247
+  offset: 1, 1
+  index: -1
+CoinAddUp
+  rotate: false
+  xy: 1, 1
+  size: 528, 299
+  orig: 528, 300
+  offset: 0, 1
+  index: -1
+
+packbutton4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Logo
+  rotate: false
+  xy: 1, 700
+  size: 509, 309
+  orig: 513, 313
+  offset: 2, 3
+  index: -1
+UpgradeTitle
+  rotate: false
+  xy: 1, 529
+  size: 469, 169
+  orig: 473, 175
+  offset: 2, 4
+  index: -1
+PurchaseDown
+  rotate: false
+  xy: 512, 835
+  size: 440, 174
+  orig: 442, 177
+  offset: 1, 2
+  index: -1
+PurchaseUp
+  rotate: false
+  xy: 1, 353
+  size: 440, 174
+  orig: 442, 177
+  offset: 1, 2
+  index: -1
+RealPurchaseDown
+  rotate: false
+  xy: 1, 177
+  size: 440, 174
+  orig: 442, 177
+  offset: 1, 2
+  index: -1
+RealPurchaseUp
+  rotate: false
+  xy: 1, 1
+  size: 440, 174
+  orig: 442, 177
+  offset: 1, 2
+  index: -1
+PlayPausaUp
+  rotate: false
+  xy: 512, 550
+  size: 283, 283
+  orig: 287, 287
+  offset: 2, 2
+  index: -1
+HomeDown
+  rotate: false
+  xy: 443, 245
+  size: 282, 282
+  orig: 287, 287
+  offset: 2, 3
+  index: -1
+HomeUp
+  rotate: false
+  xy: 727, 266
+  size: 282, 282
+  orig: 287, 287
+  offset: 2, 3
+  index: -1
+
+packbutton5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayPausaDown
+  rotate: false
+  xy: 1, 559
+  size: 282, 282
+  orig: 287, 287
+  offset: 2, 3
+  index: -1
+ResetDown
+  rotate: false
+  xy: 1, 275
+  size: 282, 282
+  orig: 287, 287
+  offset: 2, 3
+  index: -1
+ResetUp
+  rotate: false
+  xy: 285, 559
+  size: 282, 282
+  orig: 287, 287
+  offset: 2, 3
+  index: -1
+ADS
+  rotate: false
+  xy: 1, 1
+  size: 273, 272
+  orig: 276, 275
+  offset: 1, 2
+  index: -1
+ADSDown
+  rotate: false
+  xy: 285, 285
+  size: 272, 272
+  orig: 276, 275
+  offset: 2, 2
+  index: -1
+ShopDown
+  rotate: false
+  xy: 569, 569
+  size: 272, 272
+  orig: 275, 275
+  offset: 1, 2
+  index: -1
+ShopUp
+  rotate: false
+  xy: 285, 11
+  size: 272, 272
+  orig: 275, 275
+  offset: 1, 2
+  index: -1
+ADSOwned
+  rotate: false
+  xy: 569, 301
+  size: 267, 266
+  orig: 270, 269
+  offset: 1, 2
+  index: -1
+SoundOff
+  rotate: false
+  xy: 559, 33
+  size: 267, 266
+  orig: 269, 270
+  offset: 1, 2
+  index: -1
+
+packbutton6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SoundOn
+  rotate: false
+  xy: 1, 703
+  size: 266, 266
+  orig: 269, 269
+  offset: 1, 2
+  index: -1
+GearDown
+  rotate: false
+  xy: 1, 449
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+GearUp
+  rotate: false
+  xy: 269, 717
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+Highscore
+  rotate: false
+  xy: 1, 225
+  size: 222, 222
+  orig: 225, 225
+  offset: 1, 2
+  index: -1
+highscore_templateDown
+  rotate: false
+  xy: 523, 747
+  size: 222, 222
+  orig: 225, 225
+  offset: 1, 2
+  index: -1
+LogrosDown
+  rotate: false
+  xy: 1, 1
+  size: 222, 222
+  orig: 226, 225
+  offset: 2, 2
+  index: -1
+LogrosUp
+  rotate: false
+  xy: 747, 747
+  size: 222, 222
+  orig: 225, 225
+  offset: 1, 2
+  index: -1
+RankingDown
+  rotate: false
+  xy: 225, 225
+  size: 222, 222
+  orig: 225, 225
+  offset: 1, 2
+  index: -1
+RankingUp
+  rotate: false
+  xy: 225, 1
+  size: 222, 222
+  orig: 225, 225
+  offset: 1, 2
+  index: -1
+HighscoreDown
+  rotate: false
+  xy: 523, 529
+  size: 216, 216
+  orig: 219, 218
+  offset: 1, 1
+  index: -1
+PauseUp
+  rotate: false
+  xy: 255, 449
+  size: 125, 252
+  orig: 126, 252
+  offset: 0, 0
+  index: -1
+PauseDown
+  rotate: false
+  xy: 382, 463
+  size: 101, 252
+  orig: 101, 252
+  offset: 0, 0
+  index: -1

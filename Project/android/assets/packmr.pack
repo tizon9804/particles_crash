@@ -1,0 +1,373 @@
+
+packmr.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Terreno
+  rotate: false
+  xy: 1, 382
+  size: 625, 627
+  orig: 625, 627
+  offset: 0, 0
+  index: -1
+Congelante
+  rotate: false
+  xy: 1, 70
+  size: 350, 310
+  orig: 350, 310
+  offset: 0, 0
+  index: -1
+SombraObs
+  rotate: false
+  xy: 628, 670
+  size: 339, 339
+  orig: 343, 343
+  offset: 2, 2
+  index: -1
+Poder
+  rotate: false
+  xy: 628, 335
+  size: 333, 333
+  orig: 337, 337
+  offset: 2, 2
+  index: 3
+Poder
+  rotate: false
+  xy: 353, 1
+  size: 332, 332
+  orig: 338, 338
+  offset: 3, 3
+  index: 4
+Poder
+  rotate: false
+  xy: 687, 17
+  size: 316, 316
+  orig: 318, 318
+  offset: 1, 1
+  index: 1
+
+packmr2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Poder
+  rotate: false
+  xy: 1, 608
+  size: 316, 316
+  orig: 318, 318
+  offset: 1, 1
+  index: 2
+Obstaculo
+  rotate: false
+  xy: 1, 303
+  size: 307, 303
+  orig: 310, 305
+  offset: 1, 0
+  index: 2
+MrCuadradoD
+  rotate: false
+  xy: 319, 624
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 1
+MrCuadradoD
+  rotate: false
+  xy: 1, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 10
+MrCuadradoD
+  rotate: false
+  xy: 622, 624
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 11
+MrCuadradoD
+  rotate: false
+  xy: 319, 322
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 12
+MrCuadradoD
+  rotate: false
+  xy: 622, 322
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 13
+MrCuadradoD
+  rotate: false
+  xy: 310, 20
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 14
+MrCuadradoD
+  rotate: false
+  xy: 613, 20
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 15
+
+packmr3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MrCuadradoD
+  rotate: false
+  xy: 1, 605
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 16
+MrCuadradoD
+  rotate: false
+  xy: 1, 303
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 17
+MrCuadradoD
+  rotate: false
+  xy: 304, 605
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 18
+MrCuadradoD
+  rotate: false
+  xy: 1, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 19
+MrCuadradoD
+  rotate: false
+  xy: 304, 303
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 2
+MrCuadradoD
+  rotate: false
+  xy: 607, 605
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 20
+MrCuadradoD
+  rotate: false
+  xy: 304, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 21
+MrCuadradoD
+  rotate: false
+  xy: 607, 303
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 3
+MrCuadradoD
+  rotate: false
+  xy: 607, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 4
+
+packmr4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MrCuadradoD
+  rotate: false
+  xy: 1, 605
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 5
+MrCuadradoD
+  rotate: false
+  xy: 1, 303
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 6
+MrCuadradoD
+  rotate: false
+  xy: 304, 605
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 7
+MrCuadradoD
+  rotate: false
+  xy: 1, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 8
+MrCuadradoD
+  rotate: false
+  xy: 304, 303
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 9
+MrCuadrado
+  rotate: false
+  xy: 607, 605
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 1
+MrCuadrado
+  rotate: false
+  xy: 304, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 2
+MrCuadrado
+  rotate: false
+  xy: 607, 303
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 3
+MrCuadrado
+  rotate: false
+  xy: 607, 1
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 5
+
+packmr5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MrCuadrado
+  rotate: false
+  xy: 1, 607
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 6
+MrCuadrado
+  rotate: false
+  xy: 1, 305
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 7
+MrCuadrado
+  rotate: false
+  xy: 304, 607
+  size: 301, 300
+  orig: 301, 300
+  offset: 0, 0
+  index: 8
+Obstaculo
+  rotate: false
+  xy: 1, 1
+  size: 301, 302
+  orig: 301, 302
+  offset: 0, 0
+  index: 3
+Obstaculo
+  rotate: false
+  xy: 304, 304
+  size: 301, 301
+  orig: 301, 301
+  offset: 0, 0
+  index: 4
+Coin3d
+  rotate: false
+  xy: 607, 608
+  size: 300, 299
+  orig: 300, 299
+  offset: 0, 0
+  index: 1
+MrCuadrado
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 4
+Obstaculo
+  rotate: false
+  xy: 607, 306
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 1
+Coin3d
+  rotate: false
+  xy: 606, 2
+  size: 252, 300
+  orig: 252, 300
+  offset: 0, 0
+  index: 9
+
+packmr6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Coin3d
+  rotate: false
+  xy: 1, 2
+  size: 207, 300
+  orig: 207, 300
+  offset: 0, 0
+  index: 2
+Coin3d
+  rotate: false
+  xy: 210, 2
+  size: 198, 300
+  orig: 198, 300
+  offset: 0, 0
+  index: 8
+Coin3d
+  rotate: false
+  xy: 410, 2
+  size: 151, 300
+  orig: 151, 300
+  offset: 0, 0
+  index: 3
+Coin3d
+  rotate: false
+  xy: 563, 2
+  size: 121, 300
+  orig: 121, 300
+  offset: 0, 0
+  index: 7
+Coin3d
+  rotate: false
+  xy: 686, 2
+  size: 118, 300
+  orig: 118, 300
+  offset: 0, 0
+  index: 4
+Coin3d
+  rotate: false
+  xy: 806, 1
+  size: 39, 301
+  orig: 39, 301
+  offset: 0, 0
+  index: 6
+Coin3d
+  rotate: false
+  xy: 847, 2
+  size: 36, 300
+  orig: 36, 300
+  offset: 0, 0
+  index: 5
